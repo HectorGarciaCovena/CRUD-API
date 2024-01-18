@@ -1,0 +1,471 @@
+CRITICAL - 2024-01-17 14:22:40 --> Undefined variable $data
+#0 C:\xampp\htdocs\CRUD-API\app\Views\principal.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 39)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('principal', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(9): view('principal')
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 14:32:42 --> Undefined variable $data
+#0 C:\xampp\htdocs\CRUD-API\app\Views\principal.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 52)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('principal', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(9): view('principal')
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 14:35:33 --> Undefined variable $data
+#0 C:\xampp\htdocs\CRUD-API\app\Views\principal.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 52)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('principal', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(9): view('principal')
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 14:50:54 --> Undefined variable $data
+#0 C:\xampp\htdocs\CRUD-API\app\Views\principal.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 52)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('principal', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(9): view('principal')
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 14:56:47 --> Undefined variable $data
+#0 C:\xampp\htdocs\CRUD-API\app\Views\principal.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 52)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('principal', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(19): view('principal', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->index()
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 15:03:29 --> Undefined variable $idNombre
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('1')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 15:04:02 --> Undefined variable $idNombre
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('1')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 15:04:53 --> Undefined variable $id
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('1')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 19:23:49 --> Undefined variable $id
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('1')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 19:26:39 --> Undefined variable $idNombre
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 72)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->eliminar('18')
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 19:27:15 --> Undefined variable $idNombre
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 72)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->eliminar('18')
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 19:28:16 --> Undefined variable $idNombre
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 72)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->eliminar('18')
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 19:31:41 --> Undefined variable $idNombre
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 72)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->eliminar('18')
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 19:32:21 --> Undefined variable $id
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('1')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 19:32:55 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->crear()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 19:38:40 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->crear()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 19:41:18 --> Undefined constant "App\Controllers\nombre"
+#0 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->crear()
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-01-17 19:42:48 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->crear()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 19:51:27 --> Undefined variable $id
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('1')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 19:51:39 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->crear()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 19:56:45 --> Undefined variable $id
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('1')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 20:34:05 --> Undefined variable $idNombre
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(70): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('1')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 20:37:07 --> Class "App\Controllers\CrudModel" not found
+#0 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('3')
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2024-01-17 20:37:49 --> Unknown column 'id_nombre' in 'where clause'
+CRITICAL - 2024-01-17 20:37:49 --> Unknown column 'id_nombre' in 'where clause'
+#0 C:\xampp\htdocs\CRUD-API\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\CRUD-API\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\CRUD-API\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\CRUD-API\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\CRUD-API\app\Models\PersonasModel.php(22): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(63): App\Models\PersonasModel->obtenerNombre(Array)
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('3')
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#8 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-17 20:38:51 --> Undefined variable $id
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 61)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('1')
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 20:39:14 --> Undefined variable $idNombre
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('1')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 20:39:46 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 42)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 20:41:33 --> Undefined array key "datos"
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 2)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('1')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 20:41:37 --> Undefined array key "datos"
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 2)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('1')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 20:42:04 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->crear()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 20:46:54 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->crear()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 20:54:04 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->crear()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 21:08:49 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->crear()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 21:09:37 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->crear()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 21:49:47 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 42)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 21:49:55 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 42)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 21:55:23 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 42)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 21:55:29 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 42)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 21:56:46 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 42)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 21:57:19 --> Undefined array key "nombre"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 42)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 22:03:29 --> Undefined variable $idNombre
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('20')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 22:03:33 --> Undefined variable $idNombre
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 29)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('20')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 22:03:53 --> Undefined variable $paterno
+#0 C:\xampp\htdocs\CRUD-API\app\Views\actualizar.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 37)
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#4 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('20')
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#7 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-17 22:11:04 --> Undefined array key "id"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 47)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 22:12:31 --> Undefined array key "id"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 47)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 22:14:34 --> Undefined array key "id"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 47)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 22:16:55 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#3 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#4 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('22')
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-17 22:16:58 --> Object of class CodeIgniter\HTTP\RedirectResponse could not be converted to string
+#0 C:\xampp\htdocs\CRUD-API\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\CRUD-API\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\CRUD-API\system\Common.php(1089): CodeIgniter\View\View->render('actualizar', Array, true)
+#3 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(67): view('actualizar', Array)
+#4 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->obtenerNombre('20')
+#5 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#6 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-17 22:17:23 --> Undefined array key "id"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 47)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 22:18:42 --> Undefined array key "id"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 47)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 22:23:56 --> Undefined variable $id
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 51)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 22:24:24 --> Undefined array key "id"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 47)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 22:33:56 --> Undefined array key "id"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 47)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 22:35:00 --> Undefined array key "id"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 47)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-01-17 22:37:13 --> Undefined array key "id"
+#0 C:\xampp\htdocs\CRUD-API\app\Controllers\Crud.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 47)
+#1 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(825): App\Controllers\Crud->actualizar()
+#2 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Crud))
+#3 C:\xampp\htdocs\CRUD-API\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\CRUD-API\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
