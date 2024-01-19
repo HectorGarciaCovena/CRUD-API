@@ -17,12 +17,13 @@ if (file_exists(SYSTEMPATH . 'Config/Routes.php')) {
  * Router Setup
  * --------------------------------------------------------------------
  */
-$routes->setDefaultNamespace('App\Controllers');
-$routes->setDefaultController('Crud');
-$routes->setDefaultMethod('index');
-$routes->setTranslateURIDashes(false);
-$routes->set404Override();
-$routes->setAutoRoute(true);
+
+ $routes->setDefaultNamespace('App\Controllers'); // Establece el espacio de nombres predeterminado para los controladores.
+ $routes->setDefaultController('Crud'); // Establece el controlador predeterminado.
+ $routes->setDefaultMethod('index'); // Establece el método predeterminado del controlador predeterminado.
+ $routes->setTranslateURIDashes(false); // Desactiva la traducción de guiones en las URI.
+ $routes->set404Override(); // Habilita la sobrescritura de la página de error 404.
+ $routes->setAutoRoute(true); // Habilita la generación automática de rutas según los métodos del controlador.
 
 
 /*
@@ -34,12 +35,22 @@ $routes->setAutoRoute(true);
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
 
+// Ruta para la página principal, que carga el método index del controlador Crud
 $routes->get('/', 'Crud::index');
-$routes->get('/', 'Crud::index');
+
+// Ruta para obtener un nombre específico por ID
 $routes->get('/obtenerNombre/(:any)', 'Crud::obtenerNombre/$1');
+
+// Ruta para eliminar un registro por ID
 $routes->get('/eliminar/(:any)', 'Crud::eliminar/$1');
+
+// Ruta para crear un nuevo registro (se utiliza el método POST)
 $routes->post('/crear', 'Crud::crear');
+
+// Ruta para actualizar un registro (se utiliza el método POST)
 $routes->post('/actualizar', 'Crud::actualizar');
+
+// Rutas de recursos para el controlador RestPersonas (API REST)
 $routes->resource('rest-personas', ['controller' => 'RestPersonas']);
 
 
